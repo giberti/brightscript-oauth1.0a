@@ -20,8 +20,7 @@ end if
 ```
 
 ### TODO
-[x] Handle `GET` requests
-[ ] Handle `POST` requests
-[ ] Handle `DELETE` requests
-[ ] Handle `PUT` requests
-[ ] Move request handling into a `Task`
+* Handle `POST` requests
+* Handle `DELETE` requests
+* Handle `PUT` requests
+* Move request handling into a `Task`
